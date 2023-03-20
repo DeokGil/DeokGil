@@ -2,14 +2,14 @@
 
 
 <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradle-C71A36?style=flat&logo=Gradle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-C71A36?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-C71A36?style=flat&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySql-C71A36?style=flat&logo=MySql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-C71A36?style=flat&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-C71A36?style=flat&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java Script-C71A36?style=flat&logo=Java Script&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-C71A36?style=flat&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-1E8CBE?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
 
 
 <!--
